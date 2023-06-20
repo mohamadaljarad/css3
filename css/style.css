@@ -18,7 +18,14 @@ li {
     
 
  }
- .botton{
+
+ button{
+height: 36px;
+border-width: 1px;
+border-color: #f2f2f2;
+font-family: Arial;
+color: blue;
+font-size: 14px;
 
  }
 
@@ -27,6 +34,7 @@ width: 480px;
 border-block:0;
 margin-left: 350px;
 height: 20px;
+font-family:cursive ;
 
 
 
